@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b386b38-e951-4e86-8142-64859ec9f9b1" name="Changes" comment="Initial upload">
-      <change afterPath="$PROJECT_DIR$/Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Project.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +57,14 @@
     "Python.Assignment 6.executor": "Run",
     "Python.Assignment1.2.executor": "Run",
     "Python.Assignment1.executor": "Run",
+    "Python.Assignment10.executor": "Run",
+    "Python.Assignment11.executor": "Run",
+    "Python.Assignment12.executor": "Run",
     "Python.Assignment2.executor": "Run",
     "Python.Assignment3.2.executor": "Run",
     "Python.Assignment4.executor": "Run",
+    "Python.Assignment7.executor": "Run",
+    "Python.Assignment9.executor": "Run",
     "Python.Practical3.1.executor": "Run",
     "Python.Project.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -147,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774020373085</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial upload">
+      <option name="closed" value="true" />
+      <created>1774105843719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1774105843719</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -1,22 +1,31 @@
-name = input("Enter Employee Name: ")
+name = input("Enter Name: ")
 emp_id = input("Enter Employee ID: ")
-department = input("Enter Department: ")
-basic_salary = float(input("Enter Basic Salary: "))
+dept = input("Enter Department: ")
+basic = float(input("Enter Basic Salary: "))
 
-da = 0.92 * basic_salary
-hra = 0.58 * basic_salary
-ta = 0.30 * basic_salary
+da = 0.92 * basic
+hra = 0.58 * basic
+ta = 0.30 * basic
+lic = 500
 
-gross_salary = basic_salary + da + hra + ta
-net_salary = gross_salary - 500   # LIC deduction
+salary = basic + da + hra + ta - lic
 
-print("\n--- Salary Details ---")
+print("\n--- Employee Details ---")
 print("Name:", name)
-print("Employee ID:", emp_id)
-print("Department:", department)
-print("Basic Salary:", basic_salary)
-print("DA:", da)
-print("HRA:", hra)
-print("TA:", ta)
-print("LIC Deduction: 500")
-print("Net Salary:", net_salary)Priya
+print("ID:", emp_id)
+print("Department:", dept)
+print("Net Salary:", salary)
+
+
+# 2
+name = input("Vendor Name: ")
+year = input("Year of Association: ")
+contact = input("Contact Number: ")
+email = input("Email ID: ")
+
+total = 0
+for i in range(12):
+    amt = float(input(f"Enter purchase for month {i+1}: "))
+    total += amt
+
+print("\nAnnual Purchase:", total)
